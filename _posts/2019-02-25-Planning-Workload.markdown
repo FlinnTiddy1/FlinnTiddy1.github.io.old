@@ -13,7 +13,7 @@ We created a large list of issues here at our [Trello Board][trello-link]
 
 
 Screenshot of our Trello Board
-![](/assets/trello.jpg)
+![](/assets/trello.JPG)
 
 
 [trello-link]: https://trello.com/b/3IbMf8hp/taking-steps
