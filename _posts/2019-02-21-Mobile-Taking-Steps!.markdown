@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobile Taking Steps"
-date:   2019-05-20 16:01:03 +1200
+date:   2019-02-21 16:01:03 +1200
 categories: jekyll update
 ---
 
@@ -17,6 +17,6 @@ Joon and I investigated through the app to see where its been left and make a pl
 Example of the complex code(As a beginner mobile developer)
 ![](/assets/feb21_1.jpg)\
   
-  
+
 Example of current stage of Taking Steps.
 ![](/assets/feb21_2.jpg)
