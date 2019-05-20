@@ -19,4 +19,4 @@ Example of the complex code structure(As a beginner mobile developer)
   
 
 Example of current stage of Taking Steps.
-<a href="url"><img src="/assets/feb21_2.jpg" align="left" height="410" width="228"</a>
+![](/assets/feb21_2.jpg)
