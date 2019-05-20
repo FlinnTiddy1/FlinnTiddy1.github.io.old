@@ -17,8 +17,6 @@ Joon and I investigated through the app to see where its been left and make a pl
 Example of the complex code(As a beginner mobile developer)
 ![](/assets/feb21_1.jpg)
 
-
-
-
+  
 Example of current stage of Taking Steps.
 ![](/assets/feb21_2.jpg)
