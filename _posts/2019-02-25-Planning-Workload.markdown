@@ -12,7 +12,7 @@ Today Addon also added us to the repo of Taking Steps and gave us rights to be a
 We created a large list of issues here at our [Trello Board][trello-link]
 
 
-Screenshot of our Trello Board
+**Screenshot of our Trello Board.**
 ![](/assets/trello.JPG)
 
 
