@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Maps API React Native"
+title:  "React Native Maps (Google)"
 date:   2019-05-16 16:01:03 +1200
 categories: jekyll update
 --- 
