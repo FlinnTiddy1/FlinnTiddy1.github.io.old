@@ -5,7 +5,7 @@ date:   2019-03-25 16:01:03 +1200
 categories: jekyll update
 ---
 
-Google Play Store requires serveral pieces of documentation to be accepted on the store. Otago Polytechnic have a shared account and have paid the fee to be able to upload. I create the logo and banner quickly as there was no existing assets. The following components are required<br><br>
+Google Play Store requires several pieces of documentation to be accepted on the store. Otago Polytechnic have a shared account and have paid the fee to be able to upload. I create the logo and banner quickly as there was no existing assets. The following components are required<br><br>
 
 1. **App Name** - "Taking Steps"
 <br><br>
