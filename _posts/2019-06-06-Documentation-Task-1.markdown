@@ -11,3 +11,5 @@ This will be a interesting write up as a struggled with leaflet maps for weeks a
 
 [Link to documentation task here!](https://flinntiddy1.github.io/documentation-task-1.html)
 
+
+![](/assets/docupic.JPG)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recap & Future Plans + Small Fixes"
-date:   2019-06-10 00:01:03 +1200
+date:   2019-06-17 00:01:03 +1200
 categories: jekyll update
 ---
 
