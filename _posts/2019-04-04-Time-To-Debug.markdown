@@ -12,4 +12,4 @@ I decided it was time that I did a major debug on the app especially with all th
 If the third attempt doesn't work Adon suggested create a new project and building it step by step with the old code to help identify which component breaks the application exactly. Pressure is also mounting from the client Leon as he is wanting to conduct a study using the app as soon as possible.
 
 **New Gradle Setup** -
-![](/assets/gradle.jpg)
+![](/assets/gradle.JPG)

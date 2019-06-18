@@ -10,4 +10,4 @@ Joon and I had continued to read code to get a understanding of the project for 
 I will be working on the login / sign up screens and Joon on the splash screen.
 
 **Screenshot of our Adon Flow Chart.**
-![](/assets/march4_1.JPG)
+![](/assets/march4_1.jpg)

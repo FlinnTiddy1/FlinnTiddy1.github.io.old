@@ -12,4 +12,4 @@ This stumbled me so I reached out to Albert who had publish multiple app's himse
 There were multiple outdated and unneeded dependencies that I updated or removed and generated another signed APK file. I rolled out another version onto the play store, waited and crossed my fingers it would solve our problem(Have to wait till google approves again.)
 <br><br><br>
 **Screenshot of build gradle dependencies -**<br>
-![](/assets/depen.jpg)
+![](/assets/depen.JPG)
