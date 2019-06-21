@@ -16,8 +16,8 @@
 title: TIDDFC1 Project Portfolio
 email: tiddfc1@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  Github and jekyll pages site for Flinn Tiddy's developement during project 1,
-  websites follows the progess of Taking Steps one of the BIT Year 3 mobile projects.
+  Github and jekyll pages site for Flinn Tiddy's development during project 1,
+  websites follows the progress of Taking Steps one of the BIT Year 3 mobile projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TBA
