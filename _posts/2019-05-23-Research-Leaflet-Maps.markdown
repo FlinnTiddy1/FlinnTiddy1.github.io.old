@@ -5,7 +5,7 @@ date:   2019-05-23 16:01:03 +1200
 categories: jekyll update
 ---
 
-After a quick chat with Adon he wanted me to research and look into map alternatives like Leaflet. I began looking online for resources to start implementation of a new map service but quickly found leaflet for react native was lacking on documentation online and people warned against it. I didn't take their advice and pushed forward to try and getting it working in Taking Steps. I found tutorial from a github user called Reggie3 and began importing the react native modules using npm. Working through the tutorial I struggled to get anything functioning properly and couldn't refer to any of resources because this was the only one I found after a solid hours of googling.
+After a quick chat with Adon he wanted me to research and look into map alternatives like Leaflet. I began looking online for resources to start implementation of a new map service but quickly found leaflet for react native was lacking on documentation online and people warned against it. I didn't take their advice and pushed forward to try and getting it working in Taking Steps. I found tutorial from a github user called Reggie3 and began importing the react native modules using npm. Working through the tutorial I struggled to get anything functioning properly and couldn't refer to any of resources because this was the only one I found after hours of googling.
 
 React-Native-Maps using Google's API is a wiser decision for our map component in Taking Steps.
 
