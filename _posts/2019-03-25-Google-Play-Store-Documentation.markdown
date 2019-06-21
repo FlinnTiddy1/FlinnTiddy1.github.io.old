@@ -24,8 +24,8 @@ Google Play Store requires several pieces of documentation to be accepted on the
 ![](/assets/banner.jpg)
 <br><br>
 7. **Gradle Setup** - 
-![](/assets/oldgradle.jpg)
+![](/assets/oldgradle.JPG)
 <br><br>
 8. **Generate Signed APK To Upload** -
-![](/assets/APK.jpg)
+![](/assets/APK.JPG)
 

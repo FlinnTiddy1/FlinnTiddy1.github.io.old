@@ -26,3 +26,7 @@ Taking Steps Components Missing -
 Database is a core aspect we are missing, the users data needs to be saved somewhere after they finish a walk or add a goal for example. I think Joon and I will need to focus on this first when we start our second semester. After we get all the functionality that Leon has asked for we will need to polish the application **ALOT** with the main task being design and application feel in my personal opinion.
 
 Showcase is only a week away and I'm not exactly sure what to expect from this event, we don't have a whole lot to 'show' as of right now. The most important task right now for Joon and I will be to make what we have right now as presentable as possible to show lecturers and other students I guess.
+
+Highlight of this semesters project was dropping android studio and learning react native. Even though it was slightly daunting at the start as I had zero experience in React it turned out to be a good experience and I enjoyed learning how React Native is different to other platforms. I hope next semester I can continue leanring and developing my skills as its a widely used in the real world and could greatly benefit me in a hunt for a job after I graduate from the BIT. 
+
+**Next semester will be a big semester for myself as I have alot to complete but I look forward to the challenge of bringing this application to life.**
